@@ -132,7 +132,10 @@ justify-content: flex-end;
 }
 
 .about-content img:hover {
-  content: url(img/shy.png);
+ /* content: url(img/shy.png); */
+
+  content: url(img/formalwacky.png);
+  
   cursor: pointer;
   transition: 0.5s;
   }
