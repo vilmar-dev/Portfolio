@@ -1,4 +1,24 @@
 /* RESET */
+
+
+.arrow-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 45px;
+    height: 45px;
+    background: white;
+    color: orange;
+    border-radius: 50%;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+
+
+
+
+
 * {
   margin: 0;
   padding: 0;
