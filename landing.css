@@ -154,7 +154,9 @@ justify-content: flex-end;
 .about-content img:hover {
  /* content: url(img/shy.png); */
 
-  content: url(img/formalwacky.png);
+ /* content: url(img/formalwacky.png); */
+
+<img src="img/formalmaayos.png" alt="Vilmar"> 
   
   cursor: pointer;
   transition: 0.5s;
