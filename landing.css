@@ -382,3 +382,26 @@ footer {
     transform: translate(4px, -4px);
   }
 }
+
+
+
+
+
+
+
+
+
+.move-down {
+  display: inline-block;
+  animation: moveUpDown 1s ease-in-out infinite;
+}
+
+@keyframes moveUpDown {
+  0%, 100% {
+    transform: translateY(3px);
+  }
+
+  50% {
+    transform: translateY(-3px);
+  }
+}
